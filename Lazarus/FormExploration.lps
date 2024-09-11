@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="FormExploration.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="36"/>
+        <UsageCount Value="71"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="myfirstform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MyFirstForm"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="100"/>
+        <CursorPos X="86" Y="161"/>
+        <UsageCount Value="71"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mysecondform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MySecondForm"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="26" Y="32"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="myfirstform.lfm"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="17"/>
+        <CursorPos X="16" Y="17"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mysecondform.lfm"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="S:\Dave Deviley\System.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="518"/>
+        <UsageCount Value="9"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="131" Column="36" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="124" Column="53" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="130" Column="38" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="127" Column="28" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="129" Column="27" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="mysecondform.pas"/>
+        <Caret Line="38" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="mysecondform.pas"/>
+        <Caret Line="37" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="136" Column="43" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="137" Column="43" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="136" Column="43" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="137" Column="43" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="143" Column="3" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="150" Column="30" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="178" Column="53" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="mysecondform.pas"/>
+        <Caret Line="37" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="mysecondform.pas"/>
+        <Caret Line="44" Column="51"/>
+      </Position>
+      <Position>
+        <Filename Value="mysecondform.pas"/>
+        <Caret Line="41" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="mysecondform.pas"/>
+        <Caret Line="47" Column="67"/>
+      </Position>
+      <Position>
+        <Filename Value="mysecondform.pas"/>
+        <Caret Line="54" Column="67"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="134" Column="17" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="120" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="179" Column="85" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="124" Column="19" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="130" Column="29" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="128" Column="60" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="129" Column="76" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="127" Column="32" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="132" Column="58" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="69" Column="54" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="myfirstform.pas"/>
+        <Caret Line="129" Column="52" TopLine="97"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default"/>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
